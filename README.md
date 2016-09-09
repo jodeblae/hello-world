@@ -1,2 +1,3 @@
 # hello-world
-Sample Repository
+This is my learning sample repository.
+
